@@ -7,6 +7,8 @@ A synthwave inspired theme for [OnionOS](https://github.com/jimgraygit/Onion) on
 
 I have provided emulator icons you can merge into your /Emu folder if you wish. 
 
+![Screenshot of Theme-Synthwave emulator icons](https://github.com/unbolt/Theme-Synthwave/blob/main/screenshots/screenshot01.png)
+
 **Take backups of your existing image**s if you're attached to them, otherwise they'll be pink tinted and slightly pixellated forever. You have been warned.
 
 Only copy the emulators you actually kept active.
