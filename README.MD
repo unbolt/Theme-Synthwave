@@ -18,4 +18,5 @@ Only copy the emulators you actually kept active.
 Used without permission or under CC licence.
  - Clean charging screen elements - H9K
  - Key assignment and IO testing backgrounds - blueasis
+ - `printstr` - eggs
  - Backgrounnd music - [Eggy Toast](https://freemusicarchive.org/music/eggy-toast)
