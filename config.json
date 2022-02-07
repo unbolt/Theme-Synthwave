@@ -1,0 +1,7 @@
+{
+    "label":"Theme - Synthwave",
+    "icon":"icon.png",
+    "iconsel":"icon_lg.png",
+    "launch":"launch.sh",
+    "description":"Theme by Ritual"
+}
