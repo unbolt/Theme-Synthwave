@@ -1,5 +1,5 @@
 ## Theme-Synthwave
-A synthwave inspired theme for [OnionOS](https://github.com/jimgraygit/Onion) on the Miyoo Mini.
+A synthwave inspired theme for [Onion](https://github.com/jimgraygit/Onion) on the Miyoo Mini.
 
 ![Screenshot of Theme-Synthwave homescreen](https://github.com/unbolt/Theme-Synthwave/blob/main/screenshots/screenshot00.png)
 
