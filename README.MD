@@ -20,3 +20,4 @@ Used without permission or under CC licence.
  - Key assignment and IO testing backgrounds - blueasis
  - `printstr` - eggs
  - Backgrounnd music - [Eggy Toast](https://freemusicarchive.org/music/eggy-toast)
+ - [Retro Game Handhelds Discord](https://discord.gg/wurh4WM)
